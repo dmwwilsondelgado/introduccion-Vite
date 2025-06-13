@@ -1,0 +1,3 @@
+npm install -D vite // para descargar
+
+npx vite ejecutar en servidor 

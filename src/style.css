@@ -11,8 +11,8 @@
 }
 
 :root {
-  --colorBackground: rgba(145, 208, 224, 0.705);
-  --colorHeader: rgba(235, 43, 232, 0.85);
+  --colorBackground: rgb(245, 248, 249);
+  --colorHeader: rgb(36, 34, 36);
   --colorHover: rgba(246, 198, 198, 0.85);
   --white: #fff;
 }
